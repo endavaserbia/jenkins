@@ -4,6 +4,7 @@ public class Demo {
 
     private final String message = "Hello World!";
 
+    //Even if we add a comment
     public Demo() {}
 
     public static void main(String[] args) {
